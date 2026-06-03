@@ -122,7 +122,7 @@ body {
 }
 @media (max-width: 767px) {
   body {
-    padding-top: 120px;
+    padding-top: 100px;
   }
   header#head {
     padding-top: 40px;
@@ -406,7 +406,7 @@ border: 1px solid #e6e6e6;}
 /* Responsive adjustments for hero/slider on small screens */
 @media (max-width: 767px) {
   #head {
-    padding-top: 140px;
+    padding-top: 120px;
     min-height: 320px;
   }
   #head .lead { font-size: 32px; }
