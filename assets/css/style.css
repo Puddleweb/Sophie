@@ -113,7 +113,7 @@ z-index: 9999;
 	}
 @media (max-width: 767px) {
   body {
-    padding-top: 95px;
+    padding-top: 100px;
   }
   header#head {
     padding-top: 40px;
