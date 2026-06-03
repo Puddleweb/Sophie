@@ -1,24 +1,20 @@
-vTeam a Corporate Multipurpose Free Bootstrap Responsive template
+Sophie Physiotherapy - Website
 -------
 
-vTeam – a Corporate Business multipurpose HTML5 Template with modern looking homepage layout, portfolio layout, about us, contact and services pages, full responsive, fontawesome modern flat icons. Developed on bootstrap HTML5 and CSS3 framework. Whether you want to create a business, corporate, creative or personal website, HTML5 template leads you to create the right homepage
+This is a personalized copy of the vTeam Bootstrap template adapted for Sophie Physiotherapy. It includes pages for Home, About, Services, Portfolio (treatment examples) and Contact with placeholder content and contact details that should be reviewed and updated.
 
-
-Features :
+Quick notes:
 --------
-=> Easy to use, Heigh quality coded HTML5 and CSS3.
-=> Multi device compatibility
-=> Responsive design with bootstrap
-=> premium quality template
-=> Fontawesome
+=> Replace placeholder address and map with accurate clinic location.
+=> Update `assets/images/logo.png` with Sophieâ€™s logo (optional).
+=> Check `contact.html` for email and phone and update as needed.
 
-Credits :
+Credits (original template):
 -------
 => Design and developed: "WebThemez"  http://webthemez.com
-=> Photos used in template: **Unsplash** - http://unsplash.com
-=> For more free web themes: http://webthemez.com
+=> Photos used in template: Unsplash - http://unsplash.com
 => Framework : http://getbootstrap.com
 
 License :
 -------
-**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
+Original template license applies. Please verify third-party assets before publishing.
