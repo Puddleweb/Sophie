@@ -109,11 +109,20 @@ background:#2EA7A3;
 z-index: 9999;
 }
 .navbar-fixed-top{
-	position:absolute;
-	}
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	background: rgba(15,45,50,0.92);
+	border-bottom: 1px solid rgba(255,255,255,0.08);
+}
+body {
+    padding-top: 100px;
+}
 @media (max-width: 767px) {
   body {
-    padding-top: 100px;
+    padding-top: 120px;
   }
   header#head {
     padding-top: 40px;
